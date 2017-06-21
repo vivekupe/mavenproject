@@ -25,7 +25,7 @@
   </configuration>
   </plugin>
   </plugins>
-  <finalName>DummyProject</finalName>
+  <finalName>WebProject</finalName>
   </build>
 
 </project>
